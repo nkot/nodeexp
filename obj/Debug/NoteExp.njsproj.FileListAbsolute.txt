@@ -1,0 +1,2 @@
+C:\node\nodeexp\obj\Debug\NoteExp.njsprojResolveAssemblyReference.cache
+C:\node\nodeexp\bin\Microsoft.NodejsTools.WebRole.dll
